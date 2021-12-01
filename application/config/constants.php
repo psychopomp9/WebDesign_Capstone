@@ -83,7 +83,7 @@ defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user 
 defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
-define('ASSETS_PATH','http://localhost/dentshine/admin_content/');
-define('USER_PATH','http://localhost/dentshine/user_content/');
-define('UPLOAD_PATH','http://localhost/dentshine/upload/');
-define('LOGIN_PATH','http://localhost/dentshine/user_content/login/');
+define('ASSETS_PATH','https://dentshine.000webhostapp.com/admin_content/');
+define('USER_PATH','https://dentshine.000webhostapp.com/user_content/');
+define('UPLOAD_PATH','https://dentshine.000webhostapp.com/upload/');
+define('LOGIN_PATH','https://dentshine.000webhostapp.com/user_content/login/');
