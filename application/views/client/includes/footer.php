@@ -33,11 +33,8 @@
 <h2 class="ftco-heading-2">Office</h2>
 <div class="block-23 mb-3">
 <ul>
- <li><span class="icon icon-map-marker"></span><span class="text">D 103, DentShine Clinic,
- Opp. Town Hall,
- Sardar Patel Road,
- piplod, surat - 395007</span></li>
-<li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 8511593164</span></a></li>
+ <li><span class="icon icon-map-marker"></span><span class="text">465 Yonge St, Toronto, ON M4Y 1X4, Canada</span></li>
+<li><a href="#"><span class="icon icon-phone"></span><span class="text">+14164084000</span></a></li>
 <li><a href="#"><span class="icon icon-envelope"></span><span class="text">dentshine@gmail.com</span></span></a></li>
 </ul>
 </div>
